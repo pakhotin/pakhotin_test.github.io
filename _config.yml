@@ -2,3 +2,4 @@ title: Yuriy Pakhotin
 copyright: "&copy; Yuriy Pakhotin"
 baseurl: ""
 url: "https://pakhot.in"
+plugins: ['jekyll-twitter-plugin']
